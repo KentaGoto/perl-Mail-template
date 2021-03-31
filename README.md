@@ -1,1 +1,9 @@
-"# perl-Mail-template" 
+# perl-Mail-template
+
+Mail template code for Perl.  
+
+## License
+MIT  
+
+## Author
+Kenta Goto  
