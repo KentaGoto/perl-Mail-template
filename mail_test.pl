@@ -4,7 +4,7 @@ use utf8;
 use MIME::Lite;
 use Encode qw(encode);
 
-&sendMail('Title test', 'Bdoy test'); # Title, Body
+&sendMail('Title test', 'Body test'); # Title, Body
 print "Done\n";
 
 sub sendMail {
