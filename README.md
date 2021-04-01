@@ -1,6 +1,6 @@
 # perl-Mail-template
 
-Mail template code for Perl.  
+This is a simple email template code for Perl.  
 
 ## License
 MIT  
